@@ -1,3 +1,4 @@
+Follow this for trying the solution
 Compile:
 
 javac Solution.java
